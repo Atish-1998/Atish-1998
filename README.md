@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Atish-1998
-- 👀 I’m interested in computer science
+- 
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me kumaratish874@gmail.com
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me kumaratish874@gmail.com/8178629468
 
 <!---
 Atish-1998/Atish-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
